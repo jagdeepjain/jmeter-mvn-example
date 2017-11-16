@@ -1,12 +1,12 @@
 # jmeter-mvn-example
 Executing Jmeter tests using in memory jmeter.
 
-# Command to execute
+## Command to execute
 ```
 mvn test
 ```
 
-# Results
+## Results
 ```
 D:\github\jmeter-mvn-example>mvn test
 [INFO] Scanning for projects...
@@ -77,8 +77,7 @@ D:\github\jmeter-mvn-example>mvn test
 D:\github\jmeter-mvn-example>
 ```
 
-
-# Logs
+## Logs
 
 Check this line in the log to make sure that JDBC test actually ran properly. 
 
